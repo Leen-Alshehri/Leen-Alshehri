@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi there 👋  
 
-<!--
-**Leen-Alshehri/Leen-Alshehri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineer passionate about **backend systems** and **creative apps**  
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack  
+
+- **Languages:** Java · Kotlin · Python · SQL · JavaScript  
+- **Frameworks:** Spring Boot · Streamlit · Django  
+- **Databases:** MySQL · Firebase  
+- **Tools & Platforms:** Docker · Git · Maven · RabbitMQ · Flyway · ArgoCD  
+- **Other:** API Design · Event-Driven Systems · Feature Flags · BigQuery  
+
+
+## 📫 Reach Me  
+📧 shehryleen@gmail.com  
